@@ -1,0 +1,27 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 16.94px;
+  font-weight: 500;
+
+  padding: 0 16px; /* for mobile responsiveness */
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  max-width: 448px; /* for mobile responsiveness */
+  width: 100%;
+  padding: 24px;
+  background-color: #1c1c1e;
+  border-radius: 10px;
+}
