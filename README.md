@@ -1,6 +1,6 @@
 #  Wallet
 
-A Bitcoin Testnet Wallet built as part of **Summer of Bitcoin 2025** contributions. This minimalist web application provides essential Bitcoin wallet functionalities on the testnet, allowing users to safely experiment with Bitcoin transactions without risking real funds.
+ This minimalist web application provides essential Bitcoin wallet functionalities , allowing users to safely experiment with Bitcoin transactions without risking real funds.
 
 ## 🌐 Live Demo
 **[View Live Application](https://sob-bitcoin-wallet-2025.vercel.app)** *(coming soon after deployment)*
