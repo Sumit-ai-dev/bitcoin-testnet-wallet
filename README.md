@@ -1,4 +1,4 @@
-# Summer of Bitcoin 2025 - Testnet Wallet
+#  Wallet
 
 A Bitcoin Testnet Wallet built as part of **Summer of Bitcoin 2025** contributions. This minimalist web application provides essential Bitcoin wallet functionalities on the testnet, allowing users to safely experiment with Bitcoin transactions without risking real funds.
 
@@ -52,21 +52,9 @@ yarn start
 
 ## 🎨 Customization
 
-This project features a custom **Bitcoin Orange** (#F7931A) color scheme with purple accents, specifically designed for Summer of Bitcoin 2025 branding.
+This project features a custom **Bitcoin Orange** (#F7931A) color scheme with purple accents.
 
-## 🌟 Summer of Bitcoin 2025
 
-This project is my contribution to the Summer of Bitcoin 2025 program. It demonstrates:
-- Bitcoin fundamentals and testnet usage
-- Modern web development with React/Next.js
-- State management with Redux
-- Integration with Bitcoin libraries
-
-## 👤 Author
-
-**Sumit Das**
-- GitHub: [@Sumit-ai-dev](https://github.com/Sumit-ai-dev)
-- Summer of Bitcoin 2025 Participant
 
 ## 📄 License
 
@@ -74,4 +62,3 @@ This project is open source and available for educational purposes.
 
 ---
 
-**⚡ Built with ❤️ for Summer of Bitcoin 2025**
