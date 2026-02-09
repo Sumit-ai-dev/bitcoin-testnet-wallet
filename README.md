@@ -3,7 +3,7 @@
  This minimalist web application provides essential Bitcoin wallet functionalities , allowing users to safely experiment with Bitcoin transactions without risking real funds.
 
 ## 🌐 Live Demo
-**[View Live Application](https://sob-bitcoin-wallet-2025.vercel.app)** *(coming soon after deployment)*
+**[View Live Application](https://bitcoin-testnet-wallet-two.vercel.app)** 🚀
 
 ## ✨ Features
 
